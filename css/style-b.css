@@ -1,0 +1,102 @@
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    font-family: 'Dancing Script', cursive;
+}
+#home{
+    height: 100%;
+}
+#home-cover{
+    height: 100%;
+    background-image: url("../b-images/photo7.jpg");
+}
+.container-home{
+    width: 100%;
+    background-color: black;
+  }
+.main-heading h4{ 
+    color: white;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 500;
+    animation-delay: .5s;
+}
+.bg-parallax {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*background-attachment: fixed;*/
+}
+.title-underline{
+    width: 30px;
+    height: 3px;
+    background-color: pink;
+    margin: 0px auto 30px auto;
+}
+#home-content-box {
+    height: 100%;
+    width: 100%;
+    display: table;
+}
+
+#home-content-box-inner {
+    display: table-cell;
+    padding: 5px;
+    vertical-align: top;
+    text-align: right;
+    
+}
+
+.btn-general {    
+    border-color: black;
+    border-width: 2px;
+    border-radius: 0;
+    padding: 12px 26px 12px 26px;
+    font-size: 16px;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: black;
+}
+.btn-black {
+    border-color: black;
+    color: black;
+}
+.btn-black:hover,
+.btn-black:focus {
+    background-color: white;
+}
+.menu-title h4
+{
+    font-size: 50px;
+    text-align: center;
+}
+
+.menu-desc h4
+{
+    font-size: 25px;
+    vertical-align: middle;
+    text-align: center;
+}
+.container-about{
+    padding: 0px 0px 0px 20px;
+}
+#about h4{
+    font-size: 50px;
+    vertical-align:middle;
+    text-align:center;   
+}
+#about p{
+    font-size: 25px;
+    text-align: justify;
+}
+.container-footer {
+    background-color: black;
+}
+
+
+
+    
