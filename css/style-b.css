@@ -110,14 +110,14 @@ body{
 margin-right: 0px !important;
 margin-left: 0px !important;
 }
-.col-foot1 p{
+.connect{
     color: white;
-    text-align: left;
 }
-.col-foot2{
+.contact{
     color: white;
-    float: right;
-    /*font-family: arial;*/
+}
+.mail{
+    color: white;
 }
 
 @media only screen and (max-width: 768px) { 
